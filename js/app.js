@@ -1,3 +1,3 @@
 const saludo = () => {
-    alert('Hola!')
+    alert('Hola hermano, como estas?');
 }
